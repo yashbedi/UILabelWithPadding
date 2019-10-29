@@ -1,6 +1,5 @@
 //
 //  LabelWithPadding.swift
-//  EquityPerformantView
 //
 //  Created by Yash Bedi on 29/10/19.
 //  Copyright © 2019 Yash Bedi. All rights reserved.
